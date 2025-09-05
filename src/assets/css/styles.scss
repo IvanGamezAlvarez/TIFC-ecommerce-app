@@ -1,4 +1,3 @@
-
 /*
   Sass es un procesador CSS. Un preprocesador CSS es una herramienta 
   que nos permite generar, de manera automática, hojas de estilo, 
@@ -12,8 +11,8 @@
   Bootstrap usa variables de Sass, por lo que debes definirlas 
   antes de importar Bootstrap para que se apliquen correctamente.
 */
-$warning: rgb(39, 216, 136);
-$primary: rgb(115, 51, 218);
+$warning: rgb(216, 39, 154);
+$primary: rgb(109, 218, 51);
 
 // Estandarizar estilos entre navegadores
 @import "/src/assets/css/normalize.css";
